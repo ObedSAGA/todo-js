@@ -1,6 +1,6 @@
 # TO DO LIST APP
-*Guardado de información en Local Storage.
-*Empaquetado con WebPack
+- Guardado de información en Local Storage.
+- Empaquetado con WebPack
 
 Sean libres de usarla.
 
